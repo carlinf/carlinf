@@ -3,7 +3,7 @@
 
 
 - 📖 I'm a Senior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering
-- 🌱 I’m currently interested in **Web Development**
+- 🌱 I’m currently interested in **CyberSecurity**
 - 👯 I’m looking to collaborate on interesting projects.
 - ⚡ Fun fact: I love to travel and also plane spot
 
