@@ -2,7 +2,7 @@
 
 
 
-- 📖 I'm a Senior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering
+- 📖 Graduated in 2023 from SRM IST, where I earned my Bachelor's degree in Computer Science and Engineering (CSE).
 - 🌱 I’m currently interested in **CyberSecurity**
 - 👯 I’m looking to collaborate on interesting projects.
 - ⚡ Fun fact: I love to travel and also plane spot
